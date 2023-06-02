@@ -21,9 +21,8 @@ Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: A unica dificuldade foi que acabei colocando letras maiusculas no meio do codigo ai acabou dando erro mas acabei achando com ajuda do professor 
 
-# Link para acesso ao projeto: file:///C:/Users/Sec%20RN/Documents/rafaelps.html
-
 Projeto calcmedia
+
 
 
 # Projeto: Página que calcula média ponderada 01/06/2023
