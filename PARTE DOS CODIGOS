@@ -163,3 +163,52 @@ index.html
 </html>
 
 # FIM
+
+
+# projeto que inviar dados ao servidor codigo abaixo influindo o codigo.js e o "formulario.html".
+
+codigo.js
+
+
+function doGet() {
+  return HtmlService.createTemplateFromFile('formulario').evaluate();
+}
+
+function doPost(e){
+
+  Logger.log(e.parameter.msg)
+  Logger.log(e.parameter.endereco)
+}
+
+function getUrl(){
+  var url = ScriptApp.getService().getUrl();
+  return url
+}
+
+
+formulario.html
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    
+    <? var url = getUrl() ?>
+
+    <form action="<?= url ?>" method="POST">
+      <label for="msg">Mensagem</label>
+      <input type="text" id="text" name="msg">
+
+      <label for="endereco">Endereço</label>
+      <input type="text" id="endereco" name="endereco">
+      <button type="submit">Enviar</button>
+    </form>
+  </body>
+</html>
+
+
+#FIM
+
