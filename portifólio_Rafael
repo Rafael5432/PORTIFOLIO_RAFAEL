@@ -62,3 +62,24 @@ Tecnologias utilizadas:
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Não tive grande dificuldade unica coisa que acabou dando errado foi que acabei cconfundindo o email e a senha e tive que mudar a estrutura do codigo.js 
 
 # Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycbx7UVzFgS7Z47cqFrIY259hOZEib1c41pkAmqzmCezzrHNQt7aTsoQ-x8QOJzlrut__Qg/exec
+
+
+
+# Projeto: Página que calcula média ponderada 15/06/2023
+
+Arquivo (s):
+
+⚫ formulario.html
+
+Descrição: projeto de formulario que envia dados para o servidor (google apps script), É ficar salvo as informações que foram inseridas no servidor do google apps script
+
+Tecnologias utilizadas:
+
+ apps script
+
+ visual code estudio 
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: no começo acabou dando erro as informações que foram enviadas acabou não ficando salvo, acabei descobrindo que foi apenas um pequeno erro na hora de colocar os parenteses por isso não estava dando certo apos resulve acabou dando certo é todas as mensagens ficaram salvas 
+
+# Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxw23ae4HW6RbZA2yhkWaInk7YDEAzlWoRq7IGDWF5TzT-IU3bFyT_84e68BMwSktSp/exec
+
