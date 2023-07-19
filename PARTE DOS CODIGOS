@@ -210,5 +210,198 @@ formulario.html
 </html>
 
 
-#FIM
+# FIM
+
+# lista de compras que mostra os produtos comprados em vermelho codigo abaixo influindo o codigo.js e o "listaCompra.html".
+
+codigo.js
+
+function doGet() {
+  return HtmlService.createTemplateFromFile('listaCompra').evaluate();  
+}
+
+function incluir(nomeArquivo) {
+  return HtmlService.createHtmlOutputFromFile(nomeArquivo).getContent();
+}
+
+
+listacompra.html
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lista de Compras</title>
+</head>
+<body>
+  <h1>Lista de Compras</h1>
+
+  <form>
+    <label for="produto">Nome do Produto:</label>
+    <input type="text" id="produto" name="produto" placeholder="Digite o nome do produto">
+
+    <label for="quantidade">Quantidade:</label>
+    <input type="number" id="quantidade" name="quantidade" min="1">
+  </form>
+</body>
+</html>
+
+estilo.html
+
+<style>
+      input {
+        width: 200px;
+        padding: 12px 20px;
+        margin: 8px 0;
+        border: none;
+        border-bottom: 2px solid red;
+        background-color: #3cbc8d;
+        color: white;
+        box-sizing: border-box;
+      }
+
+      button{
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 15px 40px;
+        text-aling: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+</style>
+
+# FIM
+
+
+# lista de atividade 1 primeira parte codigo abaixo influindo o codigo.js e o "index.html".
+
+
+codigo.js
+
+function doGet() {
+  var htmlOutput = HtmlService.createHtmlOutputFromFile('index');
+  return htmlOutput;
+}
+
+function doPost(e){
+  var distancia = e.parameter.distancia
+  var consumo = e.parameter.consumo
+  var preco = e.parameter.preco
+  var valorFinal = ((distancia/consumo)*preco);
+  Logger.log(valorFinal);
+
+}
+function pegarUrl(){
+  var url = ScriptApp.getService().getUrl();
+  return url
+}
+
+
+
+index.html
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <base target="_top">
+  
+</head>
+
+<body>
+
+  
+
+    <form action="<?= url ?>" method="post">
+
+  
+    <label for="distancia">Distância (km):</label>
+    <input type="number" id="distancia" name="distancia" required><br><br>
+
+    <label for="consumo">Consumo (km/litro):</label>
+    <input type="number" id="consumo" name="consumo" required><br><br>
+
+    <label for="precoGasolina">Preço da gasolina:</label>
+    <input type="number" id="precoGasolina" name="precoGasolina" required><br><br>
+
+    <input type="button" value="Calcular" onclick="calcularValor()"><br><br>
+
+    <div id="resultado"></div>
+    <p> resultado:</p>
+    <p id="resultadoFinal"></p>
+  </form>
+
+  
+  
+
+  
+</body>
+
+</html>
+
+
+# FIM
+
+
+# lista de atividade 1 segunda parte codigo abaixo influindo o codigo.js e o "index.html".
+
+
+codigo.js
+
+
+function doGet() {
+  return HtmlService.createTemplateFromFile('index').evaluate();
+}
+
+function doPost(e){
+  var distancia = e.parameter.distancia;
+  var consumo = e.parameter.consumo;
+  var preco = e.parameter.preco;
+  var valorFinal = ((distancia/consumo)*preco);
+  Logger.log(valorFinal);
+
+}
+function pegarUrl(){
+  var url = ScriptApp.getService().getUrl();
+  return url
+}
+  
+codigo.html
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    
+     
+    <? var url = pegarUrl() ?>
+
+      <form action="<?= url ?>" method="POST">
+
+
+  <label for="distancia">A distancia : </label>
+  <input type="number" id="distancia" name="distancia">
+
+  <label for="consumo">O consumo de seu carro: </label>
+  <input type="number" id="consumo" name="consumo">
+
+  <label for="preco">O preço da gasolina: </label>
+  <input type="number" id="preco" name="preco">
+<button onclick="valorFinal()">Valor Final</button> </br>
+
+<p>Resultado:</p>
+<p id="resultadoFinal"></p>
+</div>
+
+      </form>
+  </body>
+</html>
+
+
+# FIM
 
