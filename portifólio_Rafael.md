@@ -83,3 +83,23 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: no começo 
 
 # Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxw23ae4HW6RbZA2yhkWaInk7YDEAzlWoRq7IGDWF5TzT-IU3bFyT_84e68BMwSktSp/exec
 
+
+
+# Projeto: lista de compras 20/05/2023
+
+Arquivo (s):
+
+⚫ formulario.html
+
+Descrição: projeto de formulario que envia dados para o servidor (google apps script), É ficar salvo as informações que foram inseridas no servidor do google apps script
+
+Tecnologias utilizadas:
+
+ apps script
+
+ visual code estudio 
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: acabei não conseguindo comcluir de primeira tiver que refazer o codigo pois ele acabou dando erro e não conseguir 
+
+# Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbw9x29XPhNQaF5q7o9S7YcJ-txI8b_FP5pTfSKv3ZikBfRdjEeup0UuiuMzQBYwRCPZ/exec
+
