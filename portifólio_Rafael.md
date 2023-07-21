@@ -69,7 +69,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: Não tive g
 
 Arquivo (s):
 
-⚫ formulario.html
+⚫ media.html
 
 Descrição: projeto de formulario que envia dados para o servidor (google apps script), É ficar salvo as informações que foram inseridas no servidor do google apps script
 
@@ -89,7 +89,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: no começo 
 
 Arquivo (s):
 
-⚫ formulario.html
+⚫ listaCompra.html
 
 Descrição: projeto de formulario que envia dados para o servidor (google apps script), É ficar salvo as informações que foram inseridas no servidor do google apps script
 
@@ -103,3 +103,22 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: acabei esqu
 
 # Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbw9x29XPhNQaF5q7o9S7YcJ-txI8b_FP5pTfSKv3ZikBfRdjEeup0UuiuMzQBYwRCPZ/exec
 
+
+
+# Projeto: cadastro livros 16/06/2023
+
+Arquivo (s):
+
+⚫ index
+
+Descrição: projeto de
+
+Tecnologias utilizadas:
+
+• Google apps script 
+
+• Visual code estudio
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Não tive grande dificuldade unica coisa que acabou dando errado foi que acabei cconfundindo o email e a senha e tive que mudar a estrutura do codigo.js pois ele acabou dando erro e não sabia localizar o erro ai so refiz todo o codigo.js 
+
+# Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycby4u1tv0sn4LEfW-V23Y1AJmKKQ7Qh7wD4070QI5r3voDSgAWnifMaGdyu7AIVkEGyczw/exec
