@@ -99,7 +99,7 @@ Tecnologias utilizadas:
 
  visual code estudio 
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: acabei não conseguindo comcluir de primeira tiver que refazer o codigo pois ele acabou dando erro e não conseguir 
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: acabei esquecendo de colocar este projeto no portifolio o codigo basicamente é uma lista de compras que quando vocé colocar os protudos que vocé escolheu e aperta o botão de enviar em baixo aparece o que vocé colocou com uma cor que foi escolhida a cor que eu coloquei foi o vermelho mas tambem pode ser qualquer cor escolhida 
 
 # Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbw9x29XPhNQaF5q7o9S7YcJ-txI8b_FP5pTfSKv3ZikBfRdjEeup0UuiuMzQBYwRCPZ/exec
 
