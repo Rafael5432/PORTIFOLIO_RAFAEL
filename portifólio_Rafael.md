@@ -19,7 +19,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
-Descrição: A unica dificuldade foi que acabei colocando letras maiusculas no meio do codigo ai acabou dando erro mas acabei achando com ajuda do professor 
+Descrição: A unica dificuldade foi que acabei colocando letras maiusculas no meio do codigo ai acabou dando erro mas acabei achando com ajuda do professor, percerbir acabei colocando letras que maiusculas onde não deveria
 
 Projeto calcmedia
 
@@ -59,7 +59,7 @@ Tecnologias utilizadas:
 
 • Visual code estudio
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Não tive grande dificuldade unica coisa que acabou dando errado foi que acabei cconfundindo o email e a senha e tive que mudar a estrutura do codigo.js 
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Não tive grande dificuldade unica coisa que acabou dando errado foi que acabei cconfundindo o email e a senha e tive que mudar a estrutura do codigo.js pois ele acabou dando erro e não sabia localizar o erro ai so refiz todo o codigo.js 
 
 # Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycbx7UVzFgS7Z47cqFrIY259hOZEib1c41pkAmqzmCezzrHNQt7aTsoQ-x8QOJzlrut__Qg/exec
 
