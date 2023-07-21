@@ -1,5 +1,5 @@
 # PORTIFOLIO_RAFAEL
- portifolio para documenta o desenvolvimento  de programação Web 
+ portifolio para documenta o desenvolvimento  de programação Web incluindo suas atividades e codigos feitos durante aula
  
 # Projeto: Página para calcular média
 
