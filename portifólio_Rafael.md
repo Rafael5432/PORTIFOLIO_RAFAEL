@@ -143,14 +143,13 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: a unica coi
 # Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycbyt1RMb_HiiQUXt9lHL_8b8_asAOLsntID3Mg3d5P9HBuQfeYpFK7M_VN1OSy3d-2KfPg/exec
 
 
-
-# lista de atividade de tipo 1 22/06/2023
+# lista de atividade de tipo 1 segunda parte no caso questão 2 23/06/2023
 
 Arquivo (s):
 
 ⚫ index.html
 
-Descrição: projeto de: projeto de que diz quanta gasolina vocé vai gastar em uma viagem  
+Descrição: projeto de: projeto de que diz quanta gasolina vocé vai gastar em uma viagem e envia ao servidor
 
 Tecnologias utilizadas:
 
@@ -158,6 +157,8 @@ Tecnologias utilizadas:
 
 • Visual code estudio
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: a unica coisa que posso falar dessa lista (meu Deus quanta emoção pra um so dia) esse lista foi muito dificil quase que não terminei so conseguir terminar depois de muito tempo fazendo mas ainda terminei sem erros mas a 2° parte dessa atividade coloca qualquer prova que ja fiz no chinelo foi muita emoção para um so dia
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: perdi as contas de contas vezes que eu refiz esse codigo tipo foi mais de 7 vezes é quantas vezes renomei o nome do codigo por estar procurando o erro e não conseguir acha ele so conseguir achar o erro, conseguir terminar esse codigo faltando incriveis 3 minutos para terminar a aula, ele funcionou direto mas o professor dizer que faltava algo no codigo e não sabia como ele tinha funcionado mas pelo menos terminei tudo
 
-# Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycbyt1RMb_HiiQUXt9lHL_8b8_asAOLsntID3Mg3d5P9HBuQfeYpFK7M_VN1OSy3d-2KfPg/exec
+# Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycbwkl3Oh6dxnRwrT0LDuelECeaY14luw2jA1jAE69iOI4YYKIPlf7iTaJKvjXs7nYTA/exec
+
+
