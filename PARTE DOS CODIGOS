@@ -44,7 +44,7 @@
 </html>
 
 
-# FIM
+# FIM codigoo
 
 
 # projeto que calcula media ponderada codigo abaixo influindo o codigo.js e o "media.html".
@@ -105,7 +105,7 @@ peso2);
 </body>
 </html>
 
-# FIM
+# FIM codigo
 
 
 
@@ -162,7 +162,7 @@ index.html
   </body>
 </html>
 
-# FIM
+# FIM codigo
 
 
 # projeto que inviar dados ao servidor codigo abaixo influindo o codigo.js e o "formulario.html".
@@ -210,7 +210,7 @@ formulario.html
 </html>
 
 
-# FIM
+# FIM codigo
 
 # lista de compras que mostra os produtos comprados em vermelho codigo abaixo influindo o codigo.js e o "listaCompra.html".
 
@@ -272,10 +272,10 @@ estilo.html
       }
 </style>
 
-# FIM
+# FIM codigo
 
 
-# lista de atividade 1 primeira parte codigo abaixo influindo o codigo.js e o "index.html".
+# lista de atividade de tipo 1 primeira parte codigo abaixo influindo o codigo.js e o "index.html".
 
 
 codigo.js
@@ -342,10 +342,10 @@ index.html
 </html>
 
 
-# FIM
+# FIM codigo
 
 
-# lista de atividade 1 segunda parte codigo abaixo influindo o codigo.js e o "index.html".
+# lista de atividade do tipo 1 segunda parte codigo abaixo influindo o codigo.js e o "index.html".
 
 
 codigo.js
@@ -403,5 +403,73 @@ codigo.html
 </html>
 
 
-# FIM
+# FIM codigo
 
+
+# projeto de biblioteca que salva os livros no google planilha incluindo nome do autor, quantidade de paginas do livro é titulor codigo abaixo influindo o codigo.js e o "livroCad.html".
+
+
+
+codigo.js
+
+
+function doGet() {
+  return HtmlService.createTemplateFromFile('LivroCad').evaluate();
+}
+
+function getUrl(){
+  var url = ScriptApp.getService().getUrl();
+  return url;
+}
+
+function doPost(e){
+  Logger.log(e.parameter.titulo)
+  var titulo = e.parameter.titulo;
+  var autor = e.parameter.autor;
+  var dataLancamento = e.parameter.dataLancamento;
+  var qtdPagina = e.parameter.qtdPagina;
+  var qtdLivro = e.parameter.qtdLivro;
+
+  var planilha = SpreadsheetApp.openById('1jlD_NJZVMbYGGxjwymJqUeJN6tCaaivWgLf0Bwd8Lpk')
+  var tabela = planilha.getSheetByName('tabela_Livros')
+
+  tabela.appendRow([titulo, autor, dataLancamento, qtdPagina, qtdLivro])
+}
+
+
+
+LivroCad.html
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    <? var url = getUrl() ?>
+
+    <form action="<?= url ?>" method="POST">
+
+      <label for="titulo">Titulo do Livro</label>
+      <input type="text" id="titulo" name="titulo">
+
+      <label for="autor">Autor</label>
+      <input type="text" id="autor" name="autor">
+
+      <label for="dataLancamento">Data de Lançamento</label>
+      <input type="date" id="dataLancamento" name="dataLancamento">
+
+      <label for="qtdPagina">Quantidade de Páginas</label>
+      <input type="text" id="qtdPagina" name="qtdPagina">
+
+      <label for="qtdLivro">Quantidade de Livros</label>
+      <input type="text" id="qtdLivro" name="qtdLivro">
+
+      <button type="submit">Cadastrar</button>
+  </body>
+</html>
+
+
+# FIM codigo
