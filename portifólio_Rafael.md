@@ -130,7 +130,27 @@ Arquivo (s):
 
 ⚫ index.html
 
-Descrição: projeto de: projeto de 
+Descrição: projeto de: projeto de que diz quanta gasolina vocé vai gastar em uma viagem  
+
+Tecnologias utilizadas:
+
+• Google apps script 
+
+• Visual code estudio
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: a unica coisa que posso falar dessa lista (meu Deus quanta emoção pra um so dia) esse lista foi muito dificil quase que não terminei so conseguir terminar depois de muito tempo fazendo mas ainda terminei sem erros mas a 2° parte dessa atividade coloca qualquer prova que ja fiz no chinelo foi muita emoção para um so dia
+
+# Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycbyt1RMb_HiiQUXt9lHL_8b8_asAOLsntID3Mg3d5P9HBuQfeYpFK7M_VN1OSy3d-2KfPg/exec
+
+
+
+# lista de atividade de tipo 1 22/06/2023
+
+Arquivo (s):
+
+⚫ index.html
+
+Descrição: projeto de: projeto de que diz quanta gasolina vocé vai gastar em uma viagem  
 
 Tecnologias utilizadas:
 
