@@ -128,9 +128,9 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: não conseg
 
 Arquivo (s):
 
-⚫ livroCad.html
+⚫ index.html
 
-Descrição: projeto de: projeto de biblioteca que salva os livros no google planilha incluindo nome do autor, quantidade de paginas do livro é titulor
+Descrição: projeto de: projeto de 
 
 Tecnologias utilizadas:
 
@@ -138,6 +138,6 @@ Tecnologias utilizadas:
 
 • Visual code estudio
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: não conseguir mexer direto no google planilha por isso tiver um pouco de dificuldade mas um amigo me ajudou a meche ai depois disso foi ate que bem demorado para construir o codigo mas de resto foi bem facil
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: a unica coisa que posso falar dessa lista (meu Deus quanta emoção pra um so dia) esse lista foi muito dificil quase que não terminei so conseguir terminar depois de muito tempo fazendo mas ainda terminei sem erros mas a 2° parte dessa atividade coloca qualquer prova que ja fiz no chinelo foi muita emoção para um so dia
 
-# Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycby4u1tv0sn4LEfW-V23Y1AJmKKQ7Qh7wD4070QI5r3voDSgAWnifMaGdyu7AIVkEGyczw/exec
+# Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycbyt1RMb_HiiQUXt9lHL_8b8_asAOLsntID3Mg3d5P9HBuQfeYpFK7M_VN1OSy3d-2KfPg/exec
