@@ -109,9 +109,9 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: acabei esqu
 
 Arquivo (s):
 
-⚫ index
+⚫ livroCad.html
 
-Descrição: projeto de
+Descrição: projeto de: projeto de biblioteca que salva os livros no google planilha incluindo nome do autor, quantidade de paginas do livro é titulor
 
 Tecnologias utilizadas:
 
@@ -119,6 +119,25 @@ Tecnologias utilizadas:
 
 • Visual code estudio
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Não tive grande dificuldade unica coisa que acabou dando errado foi que acabei cconfundindo o email e a senha e tive que mudar a estrutura do codigo.js pois ele acabou dando erro e não sabia localizar o erro ai so refiz todo o codigo.js 
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: não conseguir mexer direto no google planilha por isso tiver um pouco de dificuldade mas um amigo me ajudou a meche ai depois disso foi ate que bem demorado para construir o codigo mas de resto foi bem facil
+
+# Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycby4u1tv0sn4LEfW-V23Y1AJmKKQ7Qh7wD4070QI5r3voDSgAWnifMaGdyu7AIVkEGyczw/exec
+
+
+# lista de atividade de tipo 1 22/06/2023
+
+Arquivo (s):
+
+⚫ livroCad.html
+
+Descrição: projeto de: projeto de biblioteca que salva os livros no google planilha incluindo nome do autor, quantidade de paginas do livro é titulor
+
+Tecnologias utilizadas:
+
+• Google apps script 
+
+• Visual code estudio
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: não conseguir mexer direto no google planilha por isso tiver um pouco de dificuldade mas um amigo me ajudou a meche ai depois disso foi ate que bem demorado para construir o codigo mas de resto foi bem facil
 
 # Link para acesso ao projeto: file: https://script.google.com/macros/s/AKfycby4u1tv0sn4LEfW-V23Y1AJmKKQ7Qh7wD4070QI5r3voDSgAWnifMaGdyu7AIVkEGyczw/exec
